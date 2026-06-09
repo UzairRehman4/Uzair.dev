@@ -1,0 +1,22 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="44" fill="#07080B"/>
+  <circle cx="920" cy="140" r="300" fill="#69E7FF" opacity=".22" filter="url(#blur)"/>
+  <circle cx="160" cy="760" r="260" fill="#8B5CF6" opacity=".16" filter="url(#blur)"/>
+  <path d="M80 160H1120M80 300H1120M80 440H1120M80 580H1120M80 720H1120" stroke="white" opacity=".07"/>
+  <path d="M170 80V820M370 80V820M570 80V820M770 80V820M970 80V820" stroke="white" opacity=".07"/>
+  <rect x="95" y="86" width="1010" height="70" rx="30" fill="white" fill-opacity=".06" stroke="white" stroke-opacity=".12"/>
+  <circle cx="145" cy="121" r="10" fill="#FF7A45"/><circle cx="178" cy="121" r="10" fill="#C6FF4F"/><circle cx="211" cy="121" r="10" fill="#69E7FF"/>
+  <rect x="95" y="198" width="420" height="560" rx="34" fill="white" fill-opacity=".06" stroke="white" stroke-opacity=".12"/>
+  <rect x="555" y="198" width="550" height="260" rx="34" fill="white" fill-opacity=".05" stroke="white" stroke-opacity=".11"/>
+  <rect x="555" y="498" width="250" height="260" rx="34" fill="white" fill-opacity=".05" stroke="white" stroke-opacity=".11"/>
+  <rect x="855" y="498" width="250" height="260" rx="34" fill="white" fill-opacity=".05" stroke="white" stroke-opacity=".11"/>
+  <text x="130" y="285" fill="white" font-family="Arial Black, Arial" font-size="80" font-weight="900" letter-spacing="-6">NOVTEX</text>
+  <text x="130" y="360" fill="#A7ADBB" font-family="Arial" font-size="26">Premium interface direction</text>
+  <rect x="130" y="420" width="300" height="18" rx="9" fill="#69E7FF" opacity=".9"/>
+  <rect x="130" y="460" width="230" height="18" rx="9" fill="white" opacity=".18"/>
+  <rect x="130" y="500" width="340" height="18" rx="9" fill="white" opacity=".12"/>
+  <path d="M610 390C700 270 760 380 840 285C900 215 970 250 1040 220" stroke="#8B5CF6" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="650" cy="610" r="72" fill="#69E7FF" opacity=".32"/>
+  <circle cx="980" cy="610" r="72" fill="#8B5CF6" opacity=".32"/>
+  <defs><filter id="blur" x="-300" y="-300" width="1800" height="1500"><feGaussianBlur stdDeviation="90"/></filter></defs>
+</svg>

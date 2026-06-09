@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#050507"/>
+  <circle cx="960" cy="110" r="260" fill="#8B5CF6" opacity=".22" filter="url(#b)"/>
+  <circle cx="200" cy="520" r="240" fill="#69E7FF" opacity=".18" filter="url(#b)"/>
+  <path d="M0 500C210 400 320 620 520 500C740 368 870 390 1200 230" stroke="white" opacity=".12" stroke-width="2"/>
+  <text x="70" y="150" fill="#C6FF4F" font-family="Arial" font-size="28" font-weight="700" letter-spacing="10">UZAIR.DEV</text>
+  <text x="68" y="320" fill="white" font-family="Arial Black, Arial" font-size="108" font-weight="900" letter-spacing="-8">BUILD DIGITAL</text>
+  <text x="68" y="430" fill="white" fill-opacity=".2" stroke="white" stroke-opacity=".35" font-family="Arial Black, Arial" font-size="108" font-weight="900" letter-spacing="-8">SYSTEMS</text>
+  <text x="75" y="515" fill="#A7ADBB" font-family="Arial" font-size="30">Websites • Automations • Next.js • Solana</text>
+  <defs><filter id="b" x="-300" y="-300" width="1800" height="1230"><feGaussianBlur stdDeviation="90"/></filter></defs>
+</svg>
